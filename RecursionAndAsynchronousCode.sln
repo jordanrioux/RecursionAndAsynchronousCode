@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Recursion.CLI", "Recursion.CLI\Recursion.CLI.csproj", "{0E9F6A72-5E11-4AA2-94A6-872A8317ABBE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsynchronousCode.CLI", "AsynchronousCode.CLI\AsynchronousCode.CLI.csproj", "{997622D5-51C6-4F54-BBBE-1DE5F6C82C41}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E9F6A72-5E11-4AA2-94A6-872A8317ABBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E9F6A72-5E11-4AA2-94A6-872A8317ABBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E9F6A72-5E11-4AA2-94A6-872A8317ABBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E9F6A72-5E11-4AA2-94A6-872A8317ABBE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{997622D5-51C6-4F54-BBBE-1DE5F6C82C41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{997622D5-51C6-4F54-BBBE-1DE5F6C82C41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{997622D5-51C6-4F54-BBBE-1DE5F6C82C41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{997622D5-51C6-4F54-BBBE-1DE5F6C82C41}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
